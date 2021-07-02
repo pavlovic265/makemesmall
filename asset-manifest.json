@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/makemesmall/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/makemesmall/static/js/main.6b135773.chunk.js",
+    "main.js.map": "/makemesmall/static/js/main.6b135773.chunk.js.map",
+    "runtime-main.js": "/makemesmall/static/js/runtime-main.db9ddb6e.js",
+    "runtime-main.js.map": "/makemesmall/static/js/runtime-main.db9ddb6e.js.map",
+    "static/js/2.919844c4.chunk.js": "/makemesmall/static/js/2.919844c4.chunk.js",
+    "static/js/2.919844c4.chunk.js.map": "/makemesmall/static/js/2.919844c4.chunk.js.map",
+    "static/js/3.1e4bfc88.chunk.js": "/makemesmall/static/js/3.1e4bfc88.chunk.js",
+    "static/js/3.1e4bfc88.chunk.js.map": "/makemesmall/static/js/3.1e4bfc88.chunk.js.map",
+    "index.html": "/makemesmall/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/makemesmall/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.919844c4.chunk.js.LICENSE.txt": "/makemesmall/static/js/2.919844c4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/makemesmall/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db9ddb6e.js",
+    "static/js/2.919844c4.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.6b135773.chunk.js"
+  ]
+}
